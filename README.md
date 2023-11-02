@@ -1,9 +1,10 @@
-### Hi there 👋
+Header
 
-<!--
-**NatalliaZylevich/NatalliaZylevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
 
-Here are some ideas to get you started:
+Languages and Tools
+
+Follow Me 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
