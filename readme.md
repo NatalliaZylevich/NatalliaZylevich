@@ -26,8 +26,6 @@ I’m currently learning automation testing using **Playwright** and actively bu
 
 I’m committed to quality and continuous learning. I take pride in spotting edge cases, writing clear bug reports, and collaborating closely with developers and QA teams.
 
-📢 I also run a Telegram channel where I share tips and insights for new testers:  
-👉 [TestTech Chronicles](https://t.me/testtech_chronicles)
 
 Let’s connect and build something great together!
 
