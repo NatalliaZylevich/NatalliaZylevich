@@ -1,6 +1,6 @@
 # 👋 Hello and welcome!
 
-# Software Quality Engineer | Manual & Automation | People-Focused Testing
+## Software Quality Engineer | Manual & Automation | People-Focused Testing
 
 ## About Me
 
@@ -14,7 +14,7 @@ I'm exploring **automation and AI-assisted tools**, which help me work faster, i
 
 💼 **What I Bring:**  
 - Manual, exploratory & regression testing  
-- API testing (Postman, Swagger)  
+- API testing (Postman, Thunder Client)  
 - SQL database validation (MySQL, PostgreSQL)  
 - Learning automation with Playwright & JavaScript  
 - Strong teamwork, communication & problem-solving  
