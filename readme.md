@@ -1,18 +1,46 @@
 # 👋 Hello and welcome!
 
-I'm Natallia Zylevich — a passionate QA Engineer with a unique background in sports psychology. I bring a fresh, people-focused approach to software testing and team collaboration. Since 2021, I’ve been diving deep into software QA, starting with hands-on training and continuing through real-world projects for web and mobile applications.
+# Software Quality Engineer | Manual & Automation | People-Focused Testing
 
-💼 I specialize in manual testing, exploratory testing, and API validation, but I’m also expanding into automation and backend testing. I love finding bugs before users do — and making products better every step of the way.
+## About Me
+
+Hi, I’m Natallia Zylevich 👋 — a Software Quality Engineer passionate about delivering smooth, reliable, and bug-free experiences.  
+
+I have around **3 years of QA experience** across web and mobile applications. I have hands-on experience in **manual, exploratory, regression, API, and SQL database testing**. Right now, I’m also learning automation and applying it in projects to expand my skills.  
+
+What makes me unique is my background in **sports psychology**. It helps me better understand people — from end-users to teammates — and bring a people-focused approach to testing, communication, and collaboration.  
+
+I'm exploring **automation and AI-assisted tools**, which help me work faster, improve test coverage, and better understand complex systems. I see them as a way to support both manual and automation testing, making the QA process more efficient and effective.  
+
+💼 **What I Bring:**  
+- Manual, exploratory & regression testing  
+- API testing (Postman, Swagger)  
+- SQL database validation (MySQL, PostgreSQL)  
+- Learning automation with Playwright & JavaScript  
+- Strong teamwork, communication & problem-solving  
+
+I take pride in catching critical issues early and helping teams release products with confidence 🚀  
+
 
 ---
 
 ## 🧪 Skills & Tools
 
-- **Testing Types:** Functional, Regression, Exploratory, Usability, Cross-browser, API, Mobile & Web, SQL DB Testing  
-- **Tools & Platforms:** Postman, Thunder Client, Charles Proxy, pgAdmin, JIRA, TestRail, GitHub, DevTools, Android Studio, Playwright
-- **Programming:** JavaScript, Node.js  
-- **Databases:** PostgreSQL  
-- **Other:** Agile/Scrum, Visual Studio Code, Cygwin, Draw.io
+**Testing Tools:** Postman, Swagger, Playwright (JavaScript), Charles Proxy, Thunder Client  
+
+**Test Management & Defect Tracking:** JIRA, TestRail, Qase.io  
+
+**Databases & Tools:** SQL, PostgreSQL, MySQL, pgAdmin  
+
+**Web & Mobile Technologies:** HTML, CSS, Chrome DevTools, Android Studio  
+
+**Programming:** JavaScript, Node.js  
+
+**Other:** Git, GitHub, Visual Studio Code, Agile/Scrum, Draw.io, Cygwin  
+
+**Testing Types:** Functional, Regression, Exploratory, Usability, Cross-browser, API, Mobile & Web Testing
+
+
 
 ---
 
@@ -29,7 +57,7 @@ I’m committed to quality and continuous learning. I take pride in spotting edg
 
 Let’s connect and build something great together!
 
-## Contact Me
+## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nzylevich/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natallia.zylevich@gmail.com)
