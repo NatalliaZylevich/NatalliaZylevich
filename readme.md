@@ -26,7 +26,7 @@ I take pride in catching critical issues early and helping teams release product
 
 ## 🧪 Skills & Tools
 
-**Testing Tools:** Postman, Swagger, Playwright (JavaScript), Charles Proxy, Thunder Client  
+**Testing Tools:** Postman, Thunder Client, Playwright (JavaScript), Charles Proxy 
 
 **Test Management & Defect Tracking:** JIRA, TestRail, Qase.io  
 
