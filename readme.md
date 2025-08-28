@@ -29,5 +29,8 @@ I’m committed to quality and continuous learning. I take pride in spotting edg
 
 Let’s connect and build something great together!
 
-📫 Email: [natallia.zylevich@gmail.com](mailto:natallia.zylevich@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nzylevich)
+## Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natallia.zylevich@gmail.com)
+
