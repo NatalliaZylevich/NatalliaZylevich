@@ -14,9 +14,9 @@ I'm exploring **automation and AI-assisted tools**, which help me work faster, i
 
 💼 **What I Bring:**  
 - Manual, exploratory & regression testing  
+- Automation testing with Playwright & JavaScript  
 - API testing (Postman, Thunder Client)  
 - SQL database validation (MySQL, PostgreSQL)  
-- Learning automation with Playwright & JavaScript  
 - Strong teamwork, communication & problem-solving  
 
 I take pride in catching critical issues early and helping teams release products with confidence 🚀  
